@@ -606,7 +606,13 @@ ABOUT US
 ## OUTPUT:
 
 ### Home Page:
+![output](https://github.com/Saibandhavi75/bootstrapwebsite/blob/main/H1.PNG?raw=true)
+![output](https://github.com/Saibandhavi75/bootstrapwebsite/blob/main/H2.PNG?raw=true)
+![output](https://github.com/Saibandhavi75/bootstrapwebsite/blob/main/H3.PNG?raw=true)
+
 
 
 ## Result:
+A website has been designed using bootstrap framework.
+
 
